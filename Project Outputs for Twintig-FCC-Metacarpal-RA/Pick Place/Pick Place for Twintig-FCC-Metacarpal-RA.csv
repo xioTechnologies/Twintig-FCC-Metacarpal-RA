@@ -4,12 +4,12 @@ C:\MyFiles\x-io\Services\MICA Lab\Twintig\Twintig-FCC-Metacarpal-RA\Project Outp
 ========================================================================================================================
 File Design Information:
 
-Date:       14/10/25
-Time:       21:42
-Revision:   b38e0ba92480415c89672dab7ae096b984a1b639
+Date:       16/12/25
+Time:       14:25
+Revision:   51ad8cb4efbd16f981d1c3ee75cb6cd6cc8ee04a
 Variant:    No variations
 Units used: mm
 
 "Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Comment"
 "J1","1.5000mm","3.5000mm","TopLayer","90","Molex 502430-2030"
-"J2","7.5000mm","9.5000mm","TopLayer","180","Molex 502430-2030"
+"J2","8.5000mm","10.5000mm","TopLayer","180","Molex 502430-2030"
